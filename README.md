@@ -1,3 +1,9 @@
+- Tuazon, Joseph
+- Martinez, Ayril
+- Pascual, Brian
+- Salonga, Clark
+- Acosta, Chester
+- Vergara, Ezekiel
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
